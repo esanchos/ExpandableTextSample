@@ -7,8 +7,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
-import com.ms.square.android.expandabletextview.ExpandableTextView;
-
 public class SampleTextListAdapter extends BaseAdapter {
 
     private final Context mContext;
